@@ -1,0 +1,33 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our advice as three packages to choose from"
+  text: "We follow a scientific approach. This means no one size fits all solution. 
+
+        You might be at early stages exploring what is possible.
+        You might have an exact game plan and want someone with experience to have a look at it
+        You might find yourself stuck with a solution (solar, water,...) and need immediate help.
+        
+        All packages start with a consultation over Zoom to establish your current situation and future wishes."
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Package A: The Fact Checker"
+      text: "One hour of online meeting. Follow up via email where we provide suggestions for a bespoke solution. $399"
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Package B: The retainer:"
+      text: "Same as Package A, but alo detailed calculations, putting you in touch with relevant suppliers and leveraging our experience/relationships. $499 (so +$100 for a lot more in return potentially saving you money/time/pulled out hair"
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Package C: We are a team"
+      text: "Same as Packacke B, and in addition three follow-up sessions of half an hour each. $699"
+      button:
+        label: "Learn more"
+        url: "#"

@@ -1,0 +1,9 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Get the expert opinions you need to get to your unique lifestyle easily."
+  image: "images/services-web-development.png"
+  button:
+    label: "Let's talk"
+    url: "#"

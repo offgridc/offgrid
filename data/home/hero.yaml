@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "How to **enjoy** your lifestyle"
+  text: "We have been in your shoes, starting off with a new off-the-grid and/or Tiny Home lifestyle. We learned it the hard way, now we want to share what we picked up. We get asked frequently and want to make this a mutally beneficial experience."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+

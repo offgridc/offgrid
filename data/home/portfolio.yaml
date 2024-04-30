@@ -1,0 +1,39 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Why would you go off the grid"
+    title: "How living off the grid is fun"
+    text: "There is more than just financial aspects such as payback times. It is about freedom."
+
+    buttons: 
+      # - label: "See live"
+      #   url: "#"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Why would you go tiny"
+    title: "Tiny House Living, great if done right"
+    text: "If carefully planned and adjusted to your unique needs, living in a tiny house can be very liberating"
+
+    buttons: 
+      # - label: "See live"
+      #   url: "#"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Make smart decisions"
+    title: "How picking the right solution does not only save you time but money and stress"
+    text: "We have been there, we have done that. We can share what works and what just reads well in the catalogue or on the seller's website"
+
+    buttons: 
+      # - label: "See live"
+      #   url: "#"
+
+      - label: "Read more"
+        url: "#"
