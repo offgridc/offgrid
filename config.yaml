@@ -2,7 +2,7 @@ baseURL: "https://offgridconsult.com/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "Offgrid Consult"
 
 # googleAnalytics: ""
 
@@ -32,8 +32,8 @@ params:
     # - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    # - "trungkienspktnd@gamail.com"
+    # - "207.555.0119"
 
   copyright: "© 2024 Off Grid Consult All Rights Reserved"
 
